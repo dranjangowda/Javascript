@@ -1,0 +1,3 @@
+"use strict" in all the code
+debugging and fixing errors - any unexpected or unintended behaviour of a computer program is a software bug
+    debugging - finding and fixing errors

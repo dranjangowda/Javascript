@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.mainContainer {
+  width: 60%;
+  margin: auto;
+  background-color: rgb(217, 238, 225);
+  padding: 10px;
+}
+.topContainer,
+.midContainer,
+.bottomContainer {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+}
+
+.reset,
+.checkNumber {
+  width: 50%;
+  height: 50px;
+  background-color: rgb(11, 126, 126);
+  color: white;
+  border-radius: 5px;
+  margin: 10px;
+}
+input {
+  width: 50%;
+  height: 60px;
+  font-size: xx-large;
+  text-align: center;
+}
+p {
+  font-size: xx-large;
+  color: grey;
+}
+#win {
+  width: 50%;
+  color: white;
+  background-color: black;
+  height: 50px;
+  font-size: xx-large;
+}

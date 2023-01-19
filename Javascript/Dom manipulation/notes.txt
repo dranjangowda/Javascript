@@ -1,0 +1,2 @@
+dom manipulation
+dom - document object model , structured representation of html  documents . allows javascript to access html element and style to manipulate them 
